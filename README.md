@@ -18,6 +18,7 @@ This is a Google App Script that helps sync your personal calendar to your work 
 10. Click on the "+" sign on the left sidebar of "Services" and choose "Google Calendar API" (the default version is v3), and press the "Add" button.
 11. Save your script
 12. Click on the trigger button (An Alarm like button) on the left sidebar and press "Add Trigger"
-13. Under "Select event source": choose "From calendar"
-14. In the blank of "Calendar owner email", paste your personal email id, and press "Save"
-15. You are now good to go!
+13. Choose which function to run: choose "myFunction"
+14. Under "Select event source": choose "From calendar"
+15. In the blank of "Calendar owner email", paste your personal email id, and press "Save"
+16. You are now good to go!
