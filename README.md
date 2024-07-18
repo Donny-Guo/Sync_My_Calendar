@@ -22,3 +22,16 @@ This is a Google App Script that helps sync your personal calendar to your work 
 14. Under "Select event source": choose "From calendar"
 15. In the blank of "Calendar owner email", paste your personal email id, and press "Save"
 16. You are now good to go!
+
+
+
+## Ongoing work
+
+I am thinking to add more features to this script.
+
+1) The ability to restrict to certain times (i.e. 6AM to 6PM), but an event is considered INSIDE that time zone if ANY part of an event overlaps with that code.
+2) More options
+  1) copy over the subject name with a prefix [COPY] - ORIGINAL SUBJECT NAME (i.e.)
+  2) copy over the location
+  3) copy over the description / notes.
+3) Automate Testing
